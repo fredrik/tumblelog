@@ -1,0 +1,2 @@
++ stylize app/views/log/index.html.erb
++ minilize PostsController
