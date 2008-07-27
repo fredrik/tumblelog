@@ -1,1 +1,10 @@
+This is a minimal tumblelog inspired by http://project.ioni.st/.
+
+
+A Post represents, well, a post. It can be one of many kinds: text (url, quote, ..), media (picture, film, audio), and so on.
+
+The LogController welcomes the reader by displaying the latest posts.
+
+The PostController shows single posts, and offers an administrative intarface.
+
 
