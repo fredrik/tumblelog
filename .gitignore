@@ -1,5 +1,8 @@
+## blargh!
+
 # ephemera
-log/*.log
+log/development.log
+log/test.log
 tmp/**/*
 
 # generated docs
