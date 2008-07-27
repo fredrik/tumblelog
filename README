@@ -1,10 +1,11 @@
 This is a minimal tumblelog inspired by http://project.ioni.st/.
 
+It is in minimal in the sense that there are no timestamp, no titles, no authors, no comments -- nothing extra.
+It is a tumblelog in the sense that posts are short and to the point.
 
 A Post represents, well, a post. It can be one of many kinds: text (url, quote, ..), media (picture, film, audio), and so on.
 
 The LogController welcomes the reader by displaying the latest posts.
 
 The PostController shows single posts, and offers an administrative intarface.
-
 
