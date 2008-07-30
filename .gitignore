@@ -1,11 +1,2 @@
-## blargh!
-
-# ephemera
-log/development.log
-log/test.log
+log/*.log
 tmp/**/*
-
-# generated docs
-doc/api
-doc/app
-
